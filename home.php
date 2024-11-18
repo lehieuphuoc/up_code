@@ -7,6 +7,7 @@
     <title>Document</title>
  </head>
  <body>
+    <!-- Phước đã sửa code 2:07 -->
     <h1>Trường Cao đẳng fpt Thanh Hoá</h1>
  </body>
  </html>
